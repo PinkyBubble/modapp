@@ -51,3 +51,7 @@ div#calma-listesi {
     padding: 0.5rem;
 }
 
+p.mod-sayisi{
+    font-size: smaller;
+    color: red;
+}
